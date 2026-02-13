@@ -1,2 +1,2 @@
 马弘毅个人简历
-[http](https://iamsangbiao.github.io/)
+[链接](https://iamsangbiao.github.io/)
